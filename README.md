@@ -1,10 +1,8 @@
-# Beyond Exponential
-## Exploring Effective Alternative Feeding Strategies in Fed-Batch Fermentation
+## Beyond Exponential: <br> Exploring Effective Alternative Feeding Strategies in Fed-Batch Fermentation
 
 ### About
 This repository contains the code, models, data, and documentation for the thesis: **Beyond Exponential: Exploring Effective Alternative Feeding Strategies in Fed-Batch Fermentation**. 
 This work focuses on analytically solving an ordinary differential equation (ODE) system of standard fed-batch processes with various feed rates. 
-The repository includes a Mathematica notebook for modeling the ODE System of a fed-batch, analytically solving it, and creating and exporting data, as well as a Jupyter notebook for data analysis and visualization.
 
 The repository contains the following files:
 
